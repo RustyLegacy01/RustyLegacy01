@@ -14,3 +14,5 @@
 - I enjoy working on things that really make me think
 
 ---
+
+Discord : RustyLegacy
