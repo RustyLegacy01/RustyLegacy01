@@ -2,7 +2,7 @@
 
 ### 💻 Tech Stack
 - **Languages:** Python, JavaScript, Java, C, C#, can and will adapt to any lang
-- **Specialties:** Backend development, Market strategy implementation, problem solving
+- **Specialties:** Backend development, Market strategy implementation, problem solving, data science, etc.
 - I can literally do anything you want me to. 
 
 ---
