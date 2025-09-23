@@ -1,17 +1,15 @@
-# 👋 Sup
-
 ### 💻 Tech Stack
 - **Languages:** Python, JavaScript, Java, C, C#, can and will adapt to any lang
-- **Specialties:** Backend development, Market strategy implementation, problem solving, data science, etc.
+- **Specialties:** Adapting to anything, finance, problem solving, data science, etc.
 - I can literally do anything you want me to. 
 
 ---
 
 ### 🚀 Focus Areas
-- High-performance backend development  
-- System architecture & design patterns
+- Efficient algorithm design
+- Building apps that solve problems, or that are fun
 - Finance & Market mechanics
-- I enjoy working on things that really make me think
+- I enjoy working on things that challenge my brain
 
 ---
 
