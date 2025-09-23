@@ -1,3 +1,8 @@
+## Me.
+From the UK, living in the Netherlands for school.
+Very early foundation in programming concepts and computational thinking.
+Desiring to provide answers to any question thrown at me.
+
 ### 💻 Tech Stack
 - **Languages:** Python, JavaScript, Java, C, C#, can and will adapt to any lang
 - **Specialties:** Adapting to anything, finance, problem solving, data science, etc.
