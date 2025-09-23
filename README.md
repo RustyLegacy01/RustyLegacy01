@@ -1,5 +1,5 @@
 ## Me.
-From the UK, living in the Netherlands for school.
+From the UK, living in the Netherlands for school.\n
 Very early foundation in programming concepts and computational thinking.
 Desiring to provide answers to any question thrown at me.
 
